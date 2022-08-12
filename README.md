@@ -1,5 +1,5 @@
 
-Hi there! I'm Aline Queiroz, Full-Stack Developer in progress.
+####Hi there! I'm Aline Queiroz, Full-Stack Developer in progress.
 
 - 🔭 I’m currently working on @EasyDiet
 - 🌱 I’m currently learning C, Shell, Java and Angular
