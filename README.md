@@ -6,6 +6,17 @@
 
 <br />
 
+## About me:
+
+- I'm Cadet at 42 São Paulo.
+- I'm undergraduate Biomedicine student at Estácio.
+- I'm undergraduate Neurosciences student at Universidade Federal do Rio Grande do Norte.
+- I studied Full-Stack Development at FreeCodeCamp
+- I'm curently working as Full-Stack Developer at Easydiet.
+- One day I want to build my own neural network focusing to monitor and study neurodegenerative diseases.
+
+<br />
+
 ## School and Companies:
 <p align="center">
 <img src="https://design-style-guide.freecodecamp.org/downloads/fcc_secondary_small.svg" alt="FreeCodeCamp" height="40" style="vertical-align:top; margin:4px">
