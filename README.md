@@ -2,7 +2,7 @@
     <img src="./intro.gif">
 </p>
 
-### <p align="center" style="color: red;"> Aline Queiroz - 42 Cadet | Full-Stack Developer | Mobile | Web | DevOps</p>
+### <p align="center" style="color: red !important;"> Aline Queiroz - 42 Cadet | Full-Stack Developer | Mobile | Web | DevOps</p>
 
 <br />
 
