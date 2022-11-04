@@ -1,8 +1,7 @@
-<p align="center" width="100%">
-    <img src="./intro.gif">
-</p>
+<div>
+<img src="https://i.pinimg.com/originals/de/7b/d6/de7bd6a32ee6aba8ab6da671aa4df54b.gif" height="100%" width="100%">
 
-### <p align="center" style="color: red !important;"> Aline Queiroz - 42 Cadet | Full-Stack Developer | Mobile | Web | DevOps</p>
+### <p align="center" style="position: absolute;top: 96px;left: 62px;"> Aline Queiroz - 42 Cadet | Full-Stack Developer | Mobile | Web | DevOps</p>
 
 <br />
 
@@ -73,4 +72,5 @@
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=alineagq&hide=php&theme=tokyonight">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alineagq&hide=php&theme=tokyonight" />
 </a>
+</div>
 </div>
