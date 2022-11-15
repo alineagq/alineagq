@@ -56,8 +56,9 @@
 
 ## 42 School Badges:
 <p align="center">
-<img src="./libft_bonus.png" alt="Libtf" style="vertical-align:top; margin:4px">
-<img src="./gnl_bonus.png" alt="Libtf" style="vertical-align:top; margin:4px">
+<img src="./libft_bonus.png" alt="libtf_badge" style="vertical-align:top; margin:4px">
+<img src="./gnl_bonus.png" alt="gnl_badge" style="vertical-align:top; margin:4px">
+<img src="./printf.png" alt="printf_badge" style="vertical-align:top; margin:4px">
 
 </p>
 
